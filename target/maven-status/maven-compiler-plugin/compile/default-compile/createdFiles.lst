@@ -1,0 +1,9 @@
+io/com/dropwizard/DAOService.class
+io/com/dropwizard/response/EntityResponse.class
+io/com/dropwizard/ServiceConfiguration.class
+io/com/dropwizard/model/DBEntity.class
+io/com/dropwizard/dao/DBEntityDAO.class
+io/com/dropwizard/mapper/DBEntityMapper.class
+io/com/dropwizard/resource/EntityResource.class
+io/com/dropwizard/request/EntityCreateRequest.class
+io/com/dropwizard/DropwizardDBIService.class
